@@ -1,2 +1,3 @@
 # hello-world
-First Project
+
+Time to join the github society.
